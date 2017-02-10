@@ -1,0 +1,112 @@
+body {
+    background-image: url("../bg.jpg");
+  text-align: center;
+  font-family: 'proxima-nova', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+#headero {
+  width: 90%;
+  height: auto;
+  margin: 15px auto;
+}
+
+#headerbotton {
+  width: 100%;
+  background-color: #eeeeee;
+  border: 1px solid #a8a8a8;
+  border-radius: 5px;
+  margin: 15px auto;
+  text-align: center;
+}
+
+#headerbotton p {
+  margin-top: 12px;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: 200;
+  color: #4d4d4d;
+}
+
+#headerbotton ul {
+	display: block;
+  font-weight: 200;
+  font-size: 15px;
+  margin-right: 15px;
+  margin-left: -15px;
+}
+
+#headert {
+  border: 1px solid #a8a8a8;
+  border-radius: 5px;
+  width: 100%;
+  height: auto;
+  background-color: #eeeeee;
+}
+
+#headert h1 {
+  padding-top: 5px;
+  font-size: 20px;
+  font-weight: 200;
+  color: #000000;
+}
+
+#headert h3 {
+  padding-top: 2px;
+  text-align: center;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: bolt;
+  color: #4b4f54;
+}
+
+.img1 {
+  border-radius: 5px;
+  width: 70px;
+}
+
+.myButton {
+  background-color: #1d9e11;
+  border-radius: 4px;
+  border: 2px solid #4f4f4f;
+  display: block;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 20px;
+  /* font-weight: 200; */
+  font-weight: bold;
+  margin: 10px auto;
+  padding: 13px 32px;
+  /* padding: 10px; */
+  text-decoration: none;
+  width: 230px;
+}
+
+.firstpage {
+  display: block;
+}
+
+.continue,
+.content {
+	
+	display: none;
+	
+}
+
+#lastpage {
+  display: none;
+}
+
+#stress {
+	display: block;
+  font-size: 12px;
+  text-align: center;
+}
+
+#countdown {
+  font-size: 16px;
+  color: red;
+  font-weight: 200;
+}
+In/aL0LDIn/aRank5.08MAgel0+10whoissourceMore dataSummary 
+
+reportDiagnosisDensity00n/a
